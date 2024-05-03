@@ -1,0 +1,22 @@
+h2 {
+    color: #e74c3c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+  }
+  
+  .clear {
+    color: #333;
+    background-color: #ecf0f1;
+    margin-bottom: 12px;
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .clear:hover {
+    color: white;
+    background-color: #34495e;
+  }
+  
